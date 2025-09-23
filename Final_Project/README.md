@@ -97,7 +97,7 @@ This repository can be used as a learning resource:
 
 screenshot:-
 
-![alt text](s1.jpeg) ![alt text](s2.jpeg) ![alt text](s3.jpeg)
+![output](s1.jpeg) ![output](s2.jpeg) ![output](s3.jpeg)
 
 
 
